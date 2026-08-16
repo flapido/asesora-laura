@@ -1,0 +1,134 @@
+[
+  {
+    "viewport": "1440x900",
+    "checks": {
+      "carga de pagina (HTTP 200 + navegacion)": "PASS",
+      "document.title correcto": "PASS",
+      "meta description contiene \"Laura Frin\"": "PASS",
+      "meta description NO contiene \"María Laura\"": "PASS",
+      ".name === \"Laura Frin\"": "PASS",
+      ".photo-card b === \"Laura Frin\"": "PASS",
+      ".legal contiene \"Laura Frin\"": "PASS",
+      ".legal NO contiene \"María Laura\"": "PASS",
+      "body innerText NO contiene \"María Laura\"": "PASS",
+      "HTML fuente NO contiene \"María Laura\"": "PASS",
+      "sin overflow horizontal (scrollWidth <= clientWidth)": "PASS",
+      "imagen hero cargada (naturalWidth > 0)": "PASS",
+      "sin errores de consola": "PASS",
+      "sin page errors (JS)": "PASS",
+      "sin requests fallidas": "PASS",
+      "sin respuestas HTTP >= 400": "PASS"
+    },
+    "extra": {
+      "navError": null,
+      "nameText": "Laura Frin",
+      "photoCardText": "Laura Frin",
+      "legalText": "Página de presentación de Laura Frin. Para información institucional y condiciones vigentes, consultá los canales oficiales del Hospital Alemán.",
+      "title": "Laura Frin | Plan Médico Hospital Alemán",
+      "metaDescription": "Asesoramiento personalizado de Laura Frin para conocer opciones del Plan Médico Hospital Alemán.",
+      "heroImgSrc": "assets/laura.jpg",
+      "heroImgAlt": "Laura Frin",
+      "heroImgNaturalWidth": 1122,
+      "docScrollWidth": 1440,
+      "docClientWidth": 1440,
+      "overflowers": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": [],
+      "badResponses": [],
+      "screenshots": {
+        "hero": "docs\\qa\\screenshots\\nombre-hero-desktop-1440x900.png",
+        "full": "docs\\qa\\screenshots\\nombre-desktop-1440x900.png"
+      }
+    },
+    "issues": []
+  },
+  {
+    "viewport": "1024x768",
+    "checks": {
+      "carga de pagina (HTTP 200 + navegacion)": "PASS",
+      "document.title correcto": "PASS",
+      "meta description contiene \"Laura Frin\"": "PASS",
+      "meta description NO contiene \"María Laura\"": "PASS",
+      ".name === \"Laura Frin\"": "PASS",
+      ".photo-card b === \"Laura Frin\"": "PASS",
+      ".legal contiene \"Laura Frin\"": "PASS",
+      ".legal NO contiene \"María Laura\"": "PASS",
+      "body innerText NO contiene \"María Laura\"": "PASS",
+      "HTML fuente NO contiene \"María Laura\"": "PASS",
+      "sin overflow horizontal (scrollWidth <= clientWidth)": "PASS",
+      "imagen hero cargada (naturalWidth > 0)": "PASS",
+      "sin errores de consola": "PASS",
+      "sin page errors (JS)": "PASS",
+      "sin requests fallidas": "PASS",
+      "sin respuestas HTTP >= 400": "PASS"
+    },
+    "extra": {
+      "navError": null,
+      "nameText": "Laura Frin",
+      "photoCardText": "Laura Frin",
+      "legalText": "Página de presentación de Laura Frin. Para información institucional y condiciones vigentes, consultá los canales oficiales del Hospital Alemán.",
+      "title": "Laura Frin | Plan Médico Hospital Alemán",
+      "metaDescription": "Asesoramiento personalizado de Laura Frin para conocer opciones del Plan Médico Hospital Alemán.",
+      "heroImgSrc": "assets/laura.jpg",
+      "heroImgAlt": "Laura Frin",
+      "heroImgNaturalWidth": 1122,
+      "docScrollWidth": 1024,
+      "docClientWidth": 1024,
+      "overflowers": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": [],
+      "badResponses": [],
+      "screenshots": {
+        "hero": "docs\\qa\\screenshots\\nombre-hero-tablet-1024x768.png",
+        "full": "docs\\qa\\screenshots\\nombre-tablet-1024x768.png"
+      }
+    },
+    "issues": []
+  },
+  {
+    "viewport": "390x844",
+    "checks": {
+      "carga de pagina (HTTP 200 + navegacion)": "PASS",
+      "document.title correcto": "PASS",
+      "meta description contiene \"Laura Frin\"": "PASS",
+      "meta description NO contiene \"María Laura\"": "PASS",
+      ".name === \"Laura Frin\"": "PASS",
+      ".photo-card b === \"Laura Frin\"": "PASS",
+      ".legal contiene \"Laura Frin\"": "PASS",
+      ".legal NO contiene \"María Laura\"": "PASS",
+      "body innerText NO contiene \"María Laura\"": "PASS",
+      "HTML fuente NO contiene \"María Laura\"": "PASS",
+      "sin overflow horizontal (scrollWidth <= clientWidth)": "PASS",
+      "imagen hero cargada (naturalWidth > 0)": "PASS",
+      "sin errores de consola": "PASS",
+      "sin page errors (JS)": "PASS",
+      "sin requests fallidas": "PASS",
+      "sin respuestas HTTP >= 400": "PASS"
+    },
+    "extra": {
+      "navError": null,
+      "nameText": "Laura Frin",
+      "photoCardText": "Laura Frin",
+      "legalText": "Página de presentación de Laura Frin. Para información institucional y condiciones vigentes, consultá los canales oficiales del Hospital Alemán.",
+      "title": "Laura Frin | Plan Médico Hospital Alemán",
+      "metaDescription": "Asesoramiento personalizado de Laura Frin para conocer opciones del Plan Médico Hospital Alemán.",
+      "heroImgSrc": "assets/laura.jpg",
+      "heroImgAlt": "Laura Frin",
+      "heroImgNaturalWidth": 1122,
+      "docScrollWidth": 390,
+      "docClientWidth": 390,
+      "overflowers": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": [],
+      "badResponses": [],
+      "screenshots": {
+        "hero": "docs\\qa\\screenshots\\nombre-hero-mobile-390x844.png",
+        "full": "docs\\qa\\screenshots\\nombre-mobile-390x844.png"
+      }
+    },
+    "issues": []
+  }
+]

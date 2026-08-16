@@ -1,0 +1,152 @@
+[
+  {
+    "file": "nombre-desktop-1440x900.png",
+    "w": 1440,
+    "h": 3448,
+    "meanLum": 181.7,
+    "stddevLum": 85.9,
+    "coloredFraction": 0.0523,
+    "nearWhiteFraction": 0.5327,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-legal-desktop.png",
+    "w": 540,
+    "h": 37,
+    "meanLum": 240,
+    "stddevLum": 36.7,
+    "coloredFraction": 0.1706,
+    "nearWhiteFraction": 0.7932,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-legal-mobile.png",
+    "w": 360,
+    "h": 55,
+    "meanLum": 239.9,
+    "stddevLum": 37,
+    "coloredFraction": 0.171,
+    "nearWhiteFraction": 0.7879,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-legal-tablet.png",
+    "w": 337,
+    "h": 55,
+    "meanLum": 238.9,
+    "stddevLum": 37.9,
+    "coloredFraction": 0.1812,
+    "nearWhiteFraction": 0.7736,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-name-desktop.png",
+    "w": 521,
+    "h": 31,
+    "meanLum": 76.4,
+    "stddevLum": 41.4,
+    "coloredFraction": 0.024,
+    "nearWhiteFraction": 0.0349,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-name-mobile.png",
+    "w": 306,
+    "h": 31,
+    "meanLum": 97.7,
+    "stddevLum": 50.6,
+    "coloredFraction": 0.042,
+    "nearWhiteFraction": 0.0586,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-name-tablet.png",
+    "w": 398,
+    "h": 31,
+    "meanLum": 77.7,
+    "stddevLum": 46.8,
+    "coloredFraction": 0.0314,
+    "nearWhiteFraction": 0.0457,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-photocard-desktop.png",
+    "w": 114,
+    "h": 19,
+    "meanLum": 211.1,
+    "stddevLum": 75.3,
+    "coloredFraction": 0,
+    "nearWhiteFraction": 0.422,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-photocard-mobile.png",
+    "w": 115,
+    "h": 19,
+    "meanLum": 211.9,
+    "stddevLum": 75.6,
+    "coloredFraction": 0,
+    "nearWhiteFraction": 0.4613,
+    "blank": false
+  },
+  {
+    "file": "nombre-elem-photocard-tablet.png",
+    "w": 115,
+    "h": 19,
+    "meanLum": 211.6,
+    "stddevLum": 75.8,
+    "coloredFraction": 0,
+    "nearWhiteFraction": 0.4526,
+    "blank": false
+  },
+  {
+    "file": "nombre-hero-desktop-1440x900.png",
+    "w": 1440,
+    "h": 842,
+    "meanLum": 125.1,
+    "stddevLum": 71.9,
+    "coloredFraction": 0.2077,
+    "nearWhiteFraction": 0.11,
+    "blank": false
+  },
+  {
+    "file": "nombre-hero-mobile-390x844.png",
+    "w": 390,
+    "h": 1267,
+    "meanLum": 137,
+    "stddevLum": 71.7,
+    "coloredFraction": 0.1955,
+    "nearWhiteFraction": 0.1309,
+    "blank": false
+  },
+  {
+    "file": "nombre-hero-tablet-1024x768.png",
+    "w": 1024,
+    "h": 808,
+    "meanLum": 128.1,
+    "stddevLum": 75.1,
+    "coloredFraction": 0.2348,
+    "nearWhiteFraction": 0.1397,
+    "blank": false
+  },
+  {
+    "file": "nombre-mobile-390x844.png",
+    "w": 390,
+    "h": 5687,
+    "meanLum": 197.3,
+    "stddevLum": 69.9,
+    "coloredFraction": 0.0471,
+    "nearWhiteFraction": 0.5321,
+    "blank": false
+  },
+  {
+    "file": "nombre-tablet-1024x768.png",
+    "w": 1024,
+    "h": 3484,
+    "meanLum": 186,
+    "stddevLum": 82,
+    "coloredFraction": 0.0567,
+    "nearWhiteFraction": 0.5394,
+    "blank": false
+  }
+]

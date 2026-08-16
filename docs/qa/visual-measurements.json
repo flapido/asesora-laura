@@ -1,0 +1,242 @@
+[
+  {
+    "viewport": "desktop-1440x900",
+    "m": {
+      "scrollW": 1440,
+      "clientW": 1440,
+      "img": {
+        "complete": true,
+        "naturalW": 1122,
+        "naturalH": 1402,
+        "rect": {
+          "w": 564,
+          "h": 755
+        },
+        "objectFit": "cover",
+        "objectPosition": "50% 26%"
+      },
+      "heroPhoto": {
+        "w": 564,
+        "h": 755
+      },
+      "resources": [
+        {
+          "name": "laura.jpg",
+          "size": 247784,
+          "duration": 4
+        }
+      ]
+    },
+    "face": {
+      "visible": {
+        "x0": 37.33907284768213,
+        "y0": 0,
+        "x1": 1084.660927152318,
+        "y1": 1402
+      },
+      "overlap": {
+        "x0": 228,
+        "y0": 215,
+        "x1": 698,
+        "y1": 685
+      },
+      "pct": 100
+    },
+    "checks": {
+      "imagen cargada (naturalWidth>0)": true,
+      "imagen completa (complete)": true,
+      "object-fit cover": true,
+      "sin overflow horizontal": true,
+      "proporción fuente 4:5": true,
+      "rostro 100% visible": true,
+      "sin errores console/pageerror": true,
+      "sin requests fallidas": true
+    },
+    "shot": {
+      "hero": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\hero-desktop-1440x900.png",
+      "full": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\full-desktop-1440x900.png"
+    },
+    "errors": [],
+    "failed": []
+  },
+  {
+    "viewport": "mobile-390x844",
+    "m": {
+      "scrollW": 390,
+      "clientW": 390,
+      "img": {
+        "complete": true,
+        "naturalW": 1122,
+        "naturalH": 1402,
+        "rect": {
+          "w": 353,
+          "h": 480
+        },
+        "objectFit": "cover",
+        "objectPosition": "50% 26%"
+      },
+      "heroPhoto": {
+        "w": 353,
+        "h": 480
+      },
+      "resources": [
+        {
+          "name": "laura.jpg",
+          "size": 247784,
+          "duration": 3
+        }
+      ]
+    },
+    "face": {
+      "visible": {
+        "x0": 45.472916666666606,
+        "y0": 0,
+        "x1": 1076.5270833333334,
+        "y1": 1402
+      },
+      "overlap": {
+        "x0": 228,
+        "y0": 215,
+        "x1": 698,
+        "y1": 685
+      },
+      "pct": 100
+    },
+    "checks": {
+      "imagen cargada (naturalWidth>0)": true,
+      "imagen completa (complete)": true,
+      "object-fit cover": true,
+      "sin overflow horizontal": true,
+      "proporción fuente 4:5": true,
+      "rostro 100% visible": true,
+      "sin errores console/pageerror": true,
+      "sin requests fallidas": true
+    },
+    "shot": {
+      "hero": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\hero-mobile-390x844.png",
+      "full": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\full-mobile-390x844.png"
+    },
+    "errors": [],
+    "failed": []
+  },
+  {
+    "viewport": "tablet-768x1024",
+    "m": {
+      "scrollW": 768,
+      "clientW": 768,
+      "img": {
+        "complete": true,
+        "naturalW": 1122,
+        "naturalH": 1402,
+        "rect": {
+          "w": 701,
+          "h": 875
+        },
+        "objectFit": "cover",
+        "objectPosition": "50% 26%"
+      },
+      "heroPhoto": {
+        "w": 701,
+        "h": 875
+      },
+      "resources": [
+        {
+          "name": "laura.jpg",
+          "size": 247784,
+          "duration": 4
+        }
+      ]
+    },
+    "face": {
+      "visible": {
+        "x0": 0,
+        "y0": 0.39018544935805494,
+        "x1": 1122,
+        "y1": 1400.8894721825964
+      },
+      "overlap": {
+        "x0": 228,
+        "y0": 215,
+        "x1": 698,
+        "y1": 685
+      },
+      "pct": 100
+    },
+    "checks": {
+      "imagen cargada (naturalWidth>0)": true,
+      "imagen completa (complete)": true,
+      "object-fit cover": true,
+      "sin overflow horizontal": true,
+      "proporción fuente 4:5": true,
+      "rostro 100% visible": true,
+      "sin errores console/pageerror": true,
+      "sin requests fallidas": true
+    },
+    "shot": {
+      "hero": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\hero-tablet-768x1024.png",
+      "full": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\full-tablet-768x1024.png"
+    },
+    "errors": [],
+    "failed": []
+  },
+  {
+    "viewport": "mobile-320x568",
+    "m": {
+      "scrollW": 320,
+      "clientW": 320,
+      "img": {
+        "complete": true,
+        "naturalW": 1122,
+        "naturalH": 1402,
+        "rect": {
+          "w": 288,
+          "h": 480
+        },
+        "objectFit": "cover",
+        "objectPosition": "50% 26%"
+      },
+      "heroPhoto": {
+        "w": 288,
+        "h": 480
+      },
+      "resources": [
+        {
+          "name": "laura.jpg",
+          "size": 247784,
+          "duration": 4
+        }
+      ]
+    },
+    "face": {
+      "visible": {
+        "x0": 140.39999999999998,
+        "y0": 0,
+        "x1": 981.6,
+        "y1": 1402
+      },
+      "overlap": {
+        "x0": 228,
+        "y0": 215,
+        "x1": 698,
+        "y1": 685
+      },
+      "pct": 100
+    },
+    "checks": {
+      "imagen cargada (naturalWidth>0)": true,
+      "imagen completa (complete)": true,
+      "object-fit cover": true,
+      "sin overflow horizontal": true,
+      "proporción fuente 4:5": true,
+      "rostro 100% visible": true,
+      "sin errores console/pageerror": true,
+      "sin requests fallidas": true
+    },
+    "shot": {
+      "hero": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\hero-mobile-320x568.png",
+      "full": "C:\\Dev\\Projects\\asesora-laura\\docs\\qa\\screenshots\\full-mobile-320x568.png"
+    },
+    "errors": [],
+    "failed": []
+  }
+]
